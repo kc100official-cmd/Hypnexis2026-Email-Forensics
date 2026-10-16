@@ -64,7 +64,7 @@ flowchart TD
 ---
 ## Live Demo
 
-Try the deployed app: (https://br4hjxvhgyqmebelazwzjq.streamlit.app/)
+Try the deployed app: https://br4hjxvhgyqmebelazwzjq.streamlit.app/
 
 
 ---
