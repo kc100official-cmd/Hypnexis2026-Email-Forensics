@@ -62,6 +62,14 @@ flowchart TD
 * **SOC Triage Export:** Generates standardized JSON and Markdown incident files for immediate ticket filing in Jira, ServiceNow, or SIEM platforms.
 
 ---
+## Live Demo
+
+Try the deployed app: [SignalCheck Email Threat Triage](https://br4hjxvhgyqmebelazwzjq.streamlit.app/)
+
+
+---
+
+Note: For Offline Hosts:
 
 ## ⚙️ Installation & Local Setup
 
@@ -79,9 +87,9 @@ pip install -r requirements.txt
 ```bash
 python -m streamlit run app.py
 ```
-Open your browser at `http://localhost:8501`.
+Open your browser at `http://localhost:8501`. For Offline Hosts
 
----
+
 
 ## 🧪 Pre-Configured Test Scenarios
 In the application sidebar, you can instantly test:
